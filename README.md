@@ -4,3 +4,5 @@ To create a simulation of an loT-enabled home automation system that controls va
 
 # PRESENTATION VIDEO
 https://drive.google.com/file/d/1ju9tOeHFRjshp-O3QSQ1tByhseFzcVDI/view?usp=sharing
+
+[Presentation ](https://github.com/user-attachments/files/16844101/IOT.Internship.PPT.pptx)
